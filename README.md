@@ -1,4 +1,4 @@
-# NLP with Diasater-Tweet
+# NLP with Disaster-Tweet
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. 
 Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
@@ -13,6 +13,7 @@ to classify disaster tweet we use libraries as follows :
  - nltk : natural language transfer toolkit 
  - WorldCloud : visualization technique for texts 
 
+[image_without_Disaster_tweet](https://github.com/Sonukumari97/Diasater-Tweet-With-BERT_Model/blob/main/Images/Without_Disaster_Tweet.png)
 
 Here we use different approch to classify tweets 
 1. RandomForest
