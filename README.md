@@ -14,7 +14,8 @@ to classify disaster tweet we use libraries as follows :
  - WorldCloud : visualization technique for texts 
 
 [image_without_Disaster_tweet](https://github.com/Sonukumari97/Diasater-Tweet-With-BERT_Model/blob/main/Images/Without_Disaster_Tweet.png)
-[image_with_disaster_tweet](
+
+[image_with_disaster_tweet](https://github.com/Sonukumari97/Diasater-Tweet-With-BERT_Model/blob/main/Images/with_Disaster_Tweet.png)
 Here we use different approch to classify tweets 
 1. RandomForest
    - Accurcay : 78.60%
