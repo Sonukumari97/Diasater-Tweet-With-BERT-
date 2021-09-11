@@ -10,8 +10,9 @@ to classify disaster tweet we use libraries as follows :
  - tensorflow : to get TfBertModel 
  - text_hammer : to do text pre-processing 
  - RandomForest 
- - nltk : natural language tranfer toolkit 
+ - nltk : natural language transfer toolkit 
  - WorldCloud : visualization technique for texts 
+
 
 Here we use different approch to classify tweets 
 1. RandomForest
