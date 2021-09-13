@@ -18,7 +18,7 @@ to classify disaster tweet we use libraries as follows :
 [image_with_disaster_tweet](https://github.com/Sonukumari97/Diasater-Tweet-With-BERT_Model/blob/main/Images/with_Disaster_Tweet.png)
 
 Here we use different approch to classify tweets 
-1. RandomForest
+1. RandomForest(do some embedding i.e. vectors for each word with their associated sentiments
    - Accurcay : 78.60%
 2. BERT MODEL 
    - Accuracy : 83.38%
